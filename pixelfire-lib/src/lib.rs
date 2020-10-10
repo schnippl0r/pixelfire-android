@@ -5,7 +5,7 @@
 //       | .__/|_/_/\_\___|_|_| |_|_|  \___|
 //       |_|
 //
-// pixelfire - A pixel fire using Rust and winit + pixels
+// pixelfire-android - A pixel fire for Android using Rust, winit & pixels
 // Copyright (C) 2020, Mario Kilies <mario@kilies.de>
 //
 // This program is free software; you can redistribute it and/or modify
