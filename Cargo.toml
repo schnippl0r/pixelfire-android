@@ -12,5 +12,5 @@ crate-type = ["lib", "cdylib"]
 [dependencies]
 ndk-glue = "0.2.0"
 winit = "0.23.0"
-pixels = { path = "../pixels" }
+pixels = { git = "https://github.com/schnippl0r/pixels", rev = "b8fd9d5483c32cda9084f7736db3254bea70b44a" }
 pixelfire-lib = { path = "pixelfire-lib" }

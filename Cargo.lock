@@ -1069,6 +1069,7 @@ dependencies = [
 [[package]]
 name = "pixels"
 version = "0.2.0"
+source = "git+https://github.com/schnippl0r/pixels?rev=b8fd9d5483c32cda9084f7736db3254bea70b44a#b8fd9d5483c32cda9084f7736db3254bea70b44a"
 dependencies = [
  "pollster",
  "raw-window-handle",
